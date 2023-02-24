@@ -1,6 +1,6 @@
 from datetime import datetime
 
-from engine.willoughby_engine import WilloughbyEngine
+from engine.engine_type.willoughby_engine import WilloughbyEngine
 
 
 class Glissade(WilloughbyEngine):
